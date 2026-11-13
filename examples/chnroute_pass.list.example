@@ -1,0 +1,9 @@
+# Buddy 2026-11-12: Google Play / GMS domains that resolve to China CDN IPs.
+# Without these, china_ip_route bypasses them out of the tunnel despite proxy rules.
+services.googleapis.cn
+googleapis.cn
+www.googleapis.cn
+xn--ngstr-lra8j.com
+connectivitycheck.gstatic.com
+120.253.253.43
+223.106.89.235

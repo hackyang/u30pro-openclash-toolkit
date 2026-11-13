@@ -1,0 +1,11 @@
+*.ota
+*.tar.gz
+*.yaml
+*.db
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+.env
+*_private*
+subscription_cache/

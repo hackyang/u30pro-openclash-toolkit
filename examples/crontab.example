@@ -1,0 +1,2 @@
+# Daily 00:05 node-pool merge (avoid Monday 00:00 OpenClash tasks)
+5 0 * * * /root/oc_merge_subs.sh
